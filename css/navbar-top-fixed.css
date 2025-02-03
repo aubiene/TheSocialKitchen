@@ -1,0 +1,28 @@
+main {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #ecf0f1;
+    min-height: 90vh;
+  }
+
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+
+  .lead {
+    font-size: 1.25rem;
+  }
+
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  .footer {
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   padding: 5px;
+  }
